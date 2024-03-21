@@ -45,9 +45,7 @@ body{
 
 
 .discription {
-    background-image:url("/static/images/bak.jpg") ;
-    background-size:cover ;
-    background-repeat: no-repeat;
+    background-color:black;
     height: 70vh;
     
 }
